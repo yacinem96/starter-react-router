@@ -1,0 +1,11 @@
+.content-wraper{
+    height: 100vh;
+}
+.sidebar{
+    height: 100vh;
+    background-color: rgba(28, 19, 45, 0.861) !important;
+    color: aliceblue;
+}
+.content{
+    height: 100vh;
+}
